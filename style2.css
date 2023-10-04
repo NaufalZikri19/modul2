@@ -1,0 +1,49 @@
+body{
+    background-color: aqua;
+}
+
+h4{
+    color: darkgrey;
+    font-size: 50px;
+}
+
+h2.header{ 
+    color: black;
+}
+
+.header {
+    font-size: 50px;
+}
+
+p.teks{
+    font-size: 20px;
+    color: darkorange;
+}
+
+p.bold1{
+    color: red;
+}
+
+p strong.bold{
+    color: red ;
+}
+
+.uppercase{
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+    color: white;
+}
+
+.lowercase{
+    text-transform: lowercase;
+}
+
+ul li{
+    color: darkslategrey;
+    font-size: 30px;
+}
+
+ul h2{
+    font-size: 30px;
+}

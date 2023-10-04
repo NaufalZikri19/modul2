@@ -1,0 +1,11 @@
+strong{
+color: red;
+}
+
+ul.workEx{
+    border-style: dashed;
+    border-color: brown;
+}
+span.dateEx{
+    color: blue;
+}
